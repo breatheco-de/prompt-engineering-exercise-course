@@ -11,7 +11,7 @@
     "us": "Prompt Engineering Course for Beginners",
     "es": "Curso de Ingeniería de prompts para principiantes"
   },
-  "preview": "https://4geeks.com/interactive-exercise/prompt-engineering-exercise-course",
+  "preview": "https://github.com/breatheco-de/prompt-engineering-exercise-course/blob/e1b79cb6e1f4a1371fb041483a0ba417efd0b44d/preview.png",
   "slug": "prompt-engineering-for-beginners",
   "editor": {
     "agent": "os",
