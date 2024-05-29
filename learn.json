@@ -11,6 +11,7 @@
     "us": "Prompt Engineering Course for Beginners",
     "es": "Curso de Ingeniería de prompts para principiantes"
   },
+  "preview": "https://4geeks.com/interactive-exercise/prompt-engineering-exercise-course",
   "slug": "prompt-engineering-for-beginners",
   "editor": {
     "agent": "os",
