@@ -2,11 +2,14 @@
   "grading": "isolated",
   "difficulty": "beginner",
   "duration": 5,
+  "projectType": "tutorial",
   "description": {
-    "us": "Learn how to interact with AIs succesfully"
+    "us": "Prompt Engineering Course from scratch. Learn how to get the most out of any generative AI model with efficient techniques",
+    "es": "Curso de Ingeniería de prompts desde cero. Aprenderás a sacar el máximo rendimiento a cualquier modelo de IA generativa con las técnicas más eficientes en la actualidad."
   },
   "title": {
-    "us": "Prompt Engineering for Beginners"
+    "us": "Prompt Engineering Course for Beginners",
+    "es": "Curso de Ingeniería de prompts para principiantes"
   },
   "slug": "prompt-engineering-for-beginners",
   "editor": {

@@ -1,3 +1,9 @@
+---
+prompt_requirements: "El prompt del estudiante debe pedir a la IA que genere una historia sobre el emprendimiento. El prompt debe incluir detalles sobre el personaje principal, el escenario y cualquier desafío o tema específico que el estudiante quiera explorar."
+---
+
+
+
 # Escribe Tu Primer Prompt ✍️
 
 Al final de esta lección, estarás listo para escribir tu primer prompt y ver la magia de la IA en acción.

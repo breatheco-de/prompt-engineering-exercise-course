@@ -1,3 +1,7 @@
+---
+prompt_requirements: "The student prompt should ask the AI to generate a story about entrepreneurship. The prompt should include details about the main character, the setting, and any specific challenges or themes the student wants to explore."
+---
+
 # Write Your First Prompt ✍️
 By the end of this lesson, you'll be ready to write your first prompt and see the magic of AI in action!
 
