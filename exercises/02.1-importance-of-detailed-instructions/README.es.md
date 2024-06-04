@@ -1,19 +1,21 @@
 ### 02.1 Importancia de Instrucciones Detalladas 📝
 
+¡Muy bien! Ya has empezado a interactuar con la IA y ya entiendes cómo funcionan los prompts. Ahora, es hora de profundizar en la importancia de proporcionar instrucciones detalladas en tus prompts.
+
 Vamos a explorar por qué proporcionar instrucciones detalladas en los prompts es crucial para obtener resultados precisos y relevantes del AI. Al final de esta lección, entenderás cómo refinar y mejorar tus prompts iniciales para obtener mejores resultados.
 
 ### Por Qué Importan las Instrucciones Detalladas 🤔
 
-Cuando proporcionas instrucciones detalladas en tus prompts, ayudas al AI a entender exactamente lo que necesitas. Esto lleva a resultados más precisos y relevantes. Veamos un ejemplo para ilustrar esto:
+Cuando proporcionas instrucciones detalladas en tus prompts, ayudas a la IA a entender exactamente lo que necesitas. Esto lleva a resultados más precisos y relevantes. Veamos ejemplos para ilustrar esto:
 
-**Mal Ejemplo:**
+**Mal prompt**
 ```
 Escribe una historia sobre emprendimiento.
 ```
 
-**Buen Ejemplo:**
+**Buen Prompt**
 ```
-Escribe una historia de 300 palabras sobre un joven emprendedor que inicia una empresa de tecnología. La historia debe incluir los desafíos que enfrenta, cómo los supera y el éxito eventual. Enfócate en el crecimiento y la resiliencia del personaje.
+Escribe una historia de 300 palabras sobre un joven emprendedor que inicia una empresa de tecnología. La historia debe incluir los desafíos que enfrenta, cómo los supera y el éxito eventual. Enfócate en el crecimiento y la resiliencia del personaje. El tono debe ser inspirador y motivador. El personaje principal debe ser un hombre de 32 años llamado Alfonso.
 ```
 
 En el mal ejemplo, el prompt es demasiado vago, lo que lleva a una historia genérica y posiblemente irrelevante. En el buen ejemplo, las instrucciones detalladas guían al AI para producir una historia más enfocada y útil.
@@ -27,21 +29,9 @@ Refinar tus prompts implica agregar detalles específicos y requisitos. Debes ha
 - ¿Hay elementos o temas específicos que quiero incluir?
 - ¿Quién es el público objetivo del resultado?
 
-Al responder estas preguntas e incorporar los detalles en tu prompt, puedes guiar al AI para generar resultados que cumplan con tus expectativas.
+Al responder estas preguntas e incorporar los detalles en tu prompt, puedes guiar al AI para generar resultados que cumplan con tus expectativas. 
 
-### Ejemplo de un Prompt Refinado ✨
-
-Vamos a refinar un prompt inicial para obtener una mejor historia sobre emprendimiento:
-
-**Prompt Inicial:**
-```
-Escribe una historia sobre emprendimiento.
-```
-
-**Prompt Refinado:**
-```
-Escribe un artículo de 300 palabras para LinkedIn sobre un joven emprendedor que inicia una empresa de tecnología. El artículo debe incluir los desafíos que enfrenta, cómo los supera y su éxito eventual. Usa un tono amigable y atractivo. Incluye emojis y hashtags.
-```
+> Nota: Es importante conocer qué se quiere conseguir cuando interactuas con una IA, no es simplemente pasarle cualquier texto y esperar un resultado perfecto, sino que debes guiarla para que te entregue lo que necesitas.
 
 ## Instrucciones 📌
 
@@ -49,7 +39,7 @@ Escribe un artículo de 300 palabras para LinkedIn sobre un joven emprendedor qu
 
 **Prompt Inicial:**
 ```
-Escribe un tweet sobre memes en las redes sociales.
+Escribe un tweet sobre marketing digital.
 ```
 
 **Tu Tarea:**

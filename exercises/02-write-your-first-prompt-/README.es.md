@@ -1,9 +1,14 @@
 # Escribe Tu Primer Prompt ✍️
 Basta de tanta teoría, es hora de poner en práctica tus habilidades de prompting. En este ejercicio, tendrás la oportunidad de escribir tu primer prompt para que la IA genere una historia sobre el emprendimiento.
 
+## Funcionamiento
+En la parte izquierda del editor de texto verás el archivo que se está editando. Para este ejercicio no tienes que editar nada de allí, sino que cuando presiones el botón de **Ejecutar**, LearnPack va a pedirte que ingreses el prompt, y verás la salida de la IA en la terminal.
+
 ## El Poder de la IA en la Escritura Creativa
 
-Modelos de IA como GPT-3 de OpenAI pueden ser herramientas poderosas para la escritura creativa. Pueden ayudarte a generar ideas, superar el bloqueo del escritor e incluso generar historias completas basadas en tus prompts. Ya seas un autor aspirante o simplemente busques divertirte con la narración, la IA puede ser un valioso compañero en tu viaje creativo.
+Modelos de IA como GPT-4 de OpenAI pueden ser herramientas poderosas para la escritura creativa si se usan correctamente. Pueden ayudarte a generar ideas, superar el bloqueo del escritor e incluso generar historias completas basadas en tus prompts. Ya seas un autor aspirante o simplemente busques divertirte con la narración, la IA puede ser un valioso compañero en tu viaje creativo. 
+
+> 👀 Nota: Ten cuidado, la IA puede generar resultados de poca calidad, siempre es necesario que un humano revise y mejore el contenido generado.
 
 ## Creando Tu Primer Prompt
 
@@ -20,4 +25,6 @@ Para comenzar, necesitarás escribir un prompt que establezca el escenario para 
 
 Ahora es tu turno de escribir un prompt para que la IA genere una historia sobre el emprendimiento.
 
-- **Escribe un Prompt:** Crea un prompt para que la IA genere una historia sobre el emprendimiento. Considera incluir detalles sobre el personaje principal, el escenario y cualquier desafío o tema específico que quieras explorar.
+- **Ejecuta el Código:** Presiona el botón de **Ejecutar** para que LearnPack te pida que ingreses el prompt.
+
+- **Escribe un Prompt:** Crea un prompt para que la IA genere una historia sobre el emprendimiento. Incluye detalles sobre el personaje principal, el escenario y cualquier desafío o tema específico que quieras explorar.

@@ -1,17 +1,61 @@
-# Become a Prompt Engineer
-Welcome to this LearnPack tutorial! During this course, you will learn how to become a Prompt Engineer. You will learn how to craft effective prompts to make the AI serve to your needs. This is a guide is made for beginners, so you don't need to have any prior knowledge to start.
+# Welcome to the Practical Prompt Engineering Course for Beginners 🤖🧾
+In recent years, **Generative Artificial Intelligence** (AI) has taken an increasingly important role in the daily lives of many people. Since the release of **ChatGPT**, AI has ceased to be just a concept known to a few and has become an accessible tool for everyone, but still, many do not know how it works... That is about to change.
 
-## How to start?
+### In this course, we answer the following questions:
+- How does Generative AI work?
+- What are the best *Prompting* techniques to get precise results?
+- How to obtain an API Key to use OpenAI or Groq
 
-To start this course, you need to have the LearnPack installed. If you don't have it installed, you can follow the instructions [here](https://4geeks.com/docs/learnpack/what-is-learnpack).
+Additionally, we review many important concepts in a concise and clear manner so that anyone can understand them regardless of their prior knowledge.
+
+### No prior knowledge required ✅
 
 
-## What is a Prompt Engineer?
+## How to start? 🚀
+### **From GitHub** (recommended)
+Click on the "Code" button and then on "Create Codespace" to open this repository in a cloud development environment, so you won't have to install anything on your computer and you can start the course with just one click.
 
-A Prompt Engineer is someone who is able to craft effective prompts to make the AI serve to their needs. They are able to use the AI to generate text, code, and other content that is useful for their projects.
+### **From your computer**
+> Note: If you prefer to work on your computer, make sure you have Node.js, npm, Python, and VSCode installed. You can download [Node](https://nodejs.org/). You can download [Python](https://www.python.org/). You can download [VSCode](https://code.visualstudio.com/).
 
-## Why become a Prompt Engineer?
+#### 1. Install LearnPack
+a. Run the following command to install LearnPack globally on your computer:
+```bash
+npm install -g learnpack
+```
+After installing LearnPack, you will be able to run any LearnPack course locally. You can see more tutorials and courses [here](https://4geeks.com/interactive-exercises).
 
-Becoming a Prompt Engineer can help you to save time and effort when working on projects. You can use the AI to generate text, code, and other content that is useful for your projects. This can help you to be more productive and efficient in your work.
+b. Open **VSCode** and install the LearnPack extension. To do this, follow these steps:
+- Click on the extensions icon in the left sidebar.
+- Search for "LearnPack" in the search bar.
+- Click "Install" on the LearnPack extension.
+
+#### 2. Open a terminal according to your operating system:
+- **On Windows**: Search for `cmd` in the start menu and click on `cmd` to open the terminal. (Or simply press `Ctrl + R`, type `cmd` and press `Enter`)
+- **On Mac**: Search for `terminal` in Spotlight and click on `terminal` to open the terminal.
+- **On Linux**: Press `Ctrl + Alt + T` to open the terminal.
+
+#### 3. Clone this repository to your computer, wherever you want:
+```bash
+git clone repository-url
+```
+
+#### 4. Enter the course directory:
+```bash
+cd created-directory-name
+```
+
+#### 5. Start the course:
+If you have already installed the LearnPack extension in VSCode, when you enter the course directory, LearnPack will start automatically. If not, run the following command:
+```bash
+learnpack start
+```
+And that's it! LearnPack will take care of installing what it needs to function, you just start learning.
+
+## How to collaborate? 🤝
+If you find any errors or want to improve this course, please open a *Pull Request* or an *Issue* in this repository. All help is welcome!
+
+
+
 
 
