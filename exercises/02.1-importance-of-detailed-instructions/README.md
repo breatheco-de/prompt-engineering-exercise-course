@@ -1,19 +1,21 @@
-# 02.1 Importance of Detailed Instructions 📝
+### 02.1 Importance of Detailed Instructions 📝
 
-Let's explore why providing detailed instructions in prompts is crucial for getting accurate and relevant outputs from the AI. By the end of this lesson, you'll understand how to refine and improve your initial prompts to get better results.
+Great! You have started interacting with the AI and understand how prompts work. Now, it's time to delve into the importance of providing detailed instructions in your prompts.
+
+Let's explore why providing detailed instructions in prompts is crucial for obtaining precise and relevant results from the AI. By the end of this lesson, you will understand how to refine and improve your initial prompts to get better results.
 
 ### Why Detailed Instructions Matter 🤔
 
-When you provide detailed instructions in your prompts, you help the AI understand exactly what you need. This leads to more accurate and relevant outputs. Let's look at an example to illustrate this:
+When you provide detailed instructions in your prompts, you help the AI understand exactly what you need. This leads to more precise and relevant results. Let's look at examples to illustrate this:
 
-**Bad Example:**
+**Bad Prompt**
 ```
 Write a story about entrepreneurship.
 ```
 
-**Good Example:**
+**Good Prompt**
 ```
-Write a 300-word story about a young entrepreneur who starts a tech company. The story should include challenges they face, how they overcome them, and the eventual success. Focus on the character's growth and resilience.
+Write a 300-word story about a young entrepreneur who starts a tech company. The story should include the challenges he faces, how he overcomes them, and his eventual success. Focus on the character's growth and resilience. The tone should be inspiring and motivational. The main character should be a 32-year-old man named Alfonso.
 ```
 
 In the bad example, the prompt is too vague, leading to a generic and possibly irrelevant story. In the good example, the detailed instructions guide the AI to produce a more focused and useful story.
@@ -22,36 +24,23 @@ In the bad example, the prompt is too vague, leading to a generic and possibly i
 
 Refining your prompts involves adding specific details and requirements. You should ask yourself questions like:
 
-- What is the structure of the output I want?
-- What tone should the output have?
+- What is the structure of the result I want?
+- What tone should the result have?
 - Are there specific elements or themes I want to include?
-- Who is the target audience for the output?
+- Who is the target audience for the result?
 
-By answering these questions and incorporating the details into your prompt, you can guide the AI to generate outputs that meet your expectations.
+By answering these questions and incorporating the details into your prompt, you can guide the AI to generate results that meet your expectations.
 
-
-### Example of a Refined Prompt ✨
-
-Let's refine an initial prompt to get a better story about entrepreneurship:
-
-**Initial Prompt:**
-```
-Write a story about entrepreneurship.
-```
-
-**Refined Prompt:**
-```
-Write a 300-word article for LinkedIn about a young entrepreneur who starts a tech company. The article should include the challenges they face, how they overcome them, and their eventual success. Use a friendly and engaging tone. Include emojis and hashtags.
-```
+> Note: It is important to know what you want to achieve when interacting with an AI. It is not simply about passing any text and expecting a perfect result, but you must guide it to deliver what you need.
 
 ## Instructions 📌
 
-Now, it's your turn! Improve the following prompt to get a 300-word article for LinkedIn. The article should include emojis and hashtags.
+Now it's your turn! Improve the following prompt to obtain a 300-word article for LinkedIn. The article should include emojis and hashtags.
 
 **Initial Prompt:**
 ```
-Write a tweet about memes in social media .
+Write a tweet about digital marketing.
 ```
 
 **Your Task:**
-Refine the initial prompt to include specific details such as the main topic, tone and hashtags usage to get a funny 200-characters tweet
+Refine the initial prompt to include specific details such as the main topic, tone, and use of hashtags to get a fun 200-character tweet.
