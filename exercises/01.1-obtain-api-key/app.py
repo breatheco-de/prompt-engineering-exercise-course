@@ -1,20 +1,16 @@
 import os
 # DO NOT CHANGE THIS CODE
 
-def main():
-    API_KEY = input("Enter your API key: ")
 
-    # Save the API_KEY in the dotenv file
-    with open(".env", "w") as f:
-        f.write(f"GROQ_API_KEY={API_KEY}\n")
+API_KEY = input("Enter your API key: ")
 
-    # Export the API_KEY as an environment variable
-    os.environ["GROQ_API_KEY"] = API_KEY
+# Save the API_KEY in the dotenv file
+with open(".env", "w") as f:
+    f.write(f"GROQ_API_KEY={API_KEY}\n")
 
-    # Install the dependencies in the requirements.txt file
-    print("Installing dependencies...")
-    os.system("pip install -r requirements.txt")
-    
+# Export the API_KEY as an environment variable
+os.environ["GROQ_API_KEY"] = API_KEY
 
-if __name__ == "__main__":
-    main()
+# Install the dependencies in the requirements.txt file
+print("Installing dependencies...")
+os.system("pip install -r requirements.txt")

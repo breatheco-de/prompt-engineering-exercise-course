@@ -31,3 +31,5 @@ def test_prompt():
     from app import PROMPT
     result = create_prompt(TESTER_PROMPT, PROMPT)
     assert "GOOD_PROMPT" in result
+
+

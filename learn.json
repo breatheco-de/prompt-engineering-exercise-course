@@ -13,6 +13,12 @@
   },
   "preview": "https://github.com/breatheco-de/prompt-engineering-exercise-course/blob/e1b79cb6e1f4a1371fb041483a0ba417efd0b44d/preview.png",
   "slug": "prompt-engineering-for-beginners",
+  "technologies": [
+    "prompt-engineering",
+    "generative-ai",
+    "ia-generativa",
+    "ingenieria-de-prompts"  
+  ],
   "editor": {
     "agent": "vscode",
     "mode": "extension",

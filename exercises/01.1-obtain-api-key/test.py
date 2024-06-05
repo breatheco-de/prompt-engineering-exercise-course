@@ -1,4 +1,3 @@
-# use pytest and ensure that there is an GROQ_API_KEY in the .env file
 import os
 from dotenv import load_dotenv
 load_dotenv()
