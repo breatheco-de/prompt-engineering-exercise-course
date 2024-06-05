@@ -2,7 +2,8 @@
 
 El prompting es un concepto fundamental en el mundo de la IA y el aprendizaje automático, especialmente cuando se trabaja con **modelos de lenguaje** como GPT-4 de OpenAI. En esta lectura, exploraremos qué es un prompt, qué salida genera y algunas técnicas comunes de prompting.
 
-> Espera, ¿modelos de lenguaje? Sí, los modelos de lenguaje son sistemas de IA que pueden entender y generar texto en lenguaje natural. Estos modelos son entrenados con grandes cantidades de datos para aprender patrones y generar respuestas coherentes. Generalmente puedes comprender varios idiomas y estilos de escritura, y son la clave para el uso masivo de la IA Generativa actual.
+### Espera, ¿modelos de lenguaje? 
+Sí, los modelos de lenguaje son sistemas de IA que pueden entender y generar texto en lenguaje natural. Estos modelos son entrenados con grandes cantidades de datos para aprender patrones y generar respuestas coherentes. Generalmente puedes comprender varios idiomas y estilos de escritura, y son la clave para el uso masivo de la IA Generativa actual.
 
 ## 🧾 Prompt 
 

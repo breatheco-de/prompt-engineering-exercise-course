@@ -43,4 +43,4 @@ Escribe un tweet sobre marketing digital.
 ```
 
 **Tu Tarea:**
-Refina el prompt inicial para incluir detalles específicos como el tema principal, el tono y el uso de hashtags para obtener un tweet divertido de 200 caracteres.
+Refina el prompt inicial para incluir detalles específicos como el el **tono** y **uso de hashtags** (dile a la IA que los incluya) para obtener un tweet **divertido** de **200 caracteres**.

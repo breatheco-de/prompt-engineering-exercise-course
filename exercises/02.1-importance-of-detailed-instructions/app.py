@@ -5,10 +5,11 @@ import re
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..', 'utils')))
 from prompt import create_prompt
-PROMPT = "Write a story about an entrepreneur."
+
+
+PROMPT = "Write a tweet about digital marketing."
 
 # Generations will be added below this line
-
 
 
 # DO NOT CHANGE THIS CODE
@@ -17,8 +18,7 @@ system_prompt = "You are an useful assistant"
 def main():
     global GENERATIONS
     response = create_prompt(system_prompt, PROMPT)
-    # Print this in green
-    print("\033[92m" + response + "\033[0m")
+
     
     # Read the current file content
     with open(__file__, "r", encoding="utf-8") as f:

@@ -2,7 +2,8 @@
 
 Prompting is a fundamental concept in the world of AI and machine learning, especially when working with **language models** like OpenAI's GPT-4. In this reading, we will explore what a prompt is, what output it generates, and some common prompting techniques.
 
-> Wait, language models? Yes, language models are AI systems that can understand and generate text in natural language. These models are trained with large amounts of data to learn patterns and generate coherent responses. They can generally understand multiple languages and writing styles and are key to the widespread use of current Generative AI.
+### Wait, language models? 
+Yes, language models are AI systems that can understand and generate text in natural language. These models are trained with large amounts of data to learn patterns and generate coherent responses. They can generally understand multiple languages and writing styles and are key to the widespread use of current Generative AI.
 
 ## 🧾 Prompt
 
