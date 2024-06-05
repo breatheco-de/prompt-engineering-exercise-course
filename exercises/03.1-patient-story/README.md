@@ -28,7 +28,7 @@ To obtain a more detailed and relevant medical history, we need to include speci
 2. **Medical History:**
    - List of known medical conditions.
    - Include any past surgeries or hospitalizations.
-   - Mention any ongoing treatments or medications.
+   - Mention any ongoing treatment or medication.
 
 3. **Current Symptoms:**
    - Describe the main complaint or reason for the visit.
@@ -61,18 +61,19 @@ To obtain a more detailed and relevant medical history, we need to include speci
 
 10. **Treatment Plan:**
     - Outline the proposed treatment plan.
-    - Include any recommended medications, therapies, or lifestyle changes.
+    - Include any recommended medication, therapy, or lifestyle changes.
 
 11. **Follow-Up:**
-    - Specify any follow-up appointments or additional tests required.
+    - Specify any required follow-up appointments or additional tests.
     - Mention any signs or symptoms that should prompt immediate medical attention.
 ```
 
 ## Instructions 📌
 
 1. Review the current prompt and the example of a detailed medical history.
-2. Improve the prompt by adding the necessary structure and details for a complete medical history.
-   > Note: The information can be invented; it is only important to get the correct structure.
-3. Compare your medical history with the provided example to verify completeness and accuracy.
+2. Improve the prompt by adding the given structure so that the AI generates something similar.
+3. Instruct the AI to act as a healthcare professional and generate a detailed medical history for an imaginary patient based on the given context.
 
-By following these steps, you will be able to create text structures to achieve more detailed and useful results from the AI according to your use case. Go ahead! 🚀
+> Note: The information can be invented; it is only important to achieve the correct structure.
+
+By following these steps, you will be able to use text structures to achieve more detailed and useful results from the AI according to your use case. Go ahead! 🚀

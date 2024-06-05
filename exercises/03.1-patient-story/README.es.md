@@ -72,8 +72,8 @@ Para obtener una historia clínica más detallada y relevante, necesitamos inclu
 ## Instrucciones 📌
 
 1. Revisa el prompt actual y el ejemplo de una historia clínica detallada.
-2. Mejora el prompt añadiendo la estructura y detalles necesarios para una historia clínica completa. 
+2. Mejora el prompt añadiendo la estructura dada para que la IA genere algo similar.
+3. Instruye a la IA para que actúe como un profesional de la salud y genere una historia clínica detallada para un paciente imaginario basándose en el contexto dado. 
 > Nota: La información puede ser inventada, tan solo es importante conseguir la estructura correcta.
-3. Compara tu historia clínica con el ejemplo proporcionado para verificar la integridad y precisión.
 
 Siguiendo estos pasos, podrás crear usar estructuras de texto para conseguir resultados más detallados y útiles de la IA según tu caso de uso. ¡Adelante! 🚀

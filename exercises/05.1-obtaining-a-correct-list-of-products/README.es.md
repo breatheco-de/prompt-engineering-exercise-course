@@ -31,4 +31,6 @@ Queremos mejorar nuestra guía para obtener una forma más fácil de leer la lis
   - Código de Producto: ntb-001
 ```
 
-Tu tarea es crear un prompt que nos ayude a obtener una lista correcta de productos en el formato deseado. Recuerda usar los delimitadores apropiados y proporcionar instrucciones claras para que la IA entienda la tarea. Usa uno de los siguientes "shots": one-shot, few-shot o many-shot, dependiendo del número de ejemplos que creas que la IA necesita para entender la tarea.
+- Tu tarea es crear un prompt que nos ayude a obtener una lista correcta de productos en el formato deseado. 
+- Recuerda usar los delimitadores apropiados y proporcionar instrucciones claras y el contexto necesario para que la IA entienda la tarea. 
+- Usa uno de los siguientes "shots": one-shot, few-shot o many-shot, dependiendo del número de ejemplos que creas que la IA necesita para entender la tarea.

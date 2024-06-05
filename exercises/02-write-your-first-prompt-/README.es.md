@@ -2,7 +2,7 @@
 Basta de tanta teoría, es hora de poner en práctica tus habilidades de prompting. En este ejercicio, tendrás la oportunidad de escribir tu primer prompt para que la IA genere una historia sobre el emprendimiento.
 
 ## Funcionamiento
-En la parte izquierda del editor de texto verás el archivo que se está editando. Para este ejercicio no tienes que editar nada de allí, sino que cuando presiones el botón de **Ejecutar**, LearnPack va a pedirte que ingreses el prompt, y verás la salida de la IA en la terminal.
+En la parte izquierda del editor de texto verás el archivo que se está editando. Nota que hay una variable llamada **PROMPT**, para todo el curso va a ser exactamente igual, solo tendrás que editar este prompt, ejecutar, testear, y listo. El resultado del prompt aparecerá en el mismo archivo debajo del mismo, con cada generación se agregará una nueva respuesta.
 
 ## El Poder de la IA en la Escritura Creativa
 
@@ -25,6 +25,6 @@ Para comenzar, necesitarás escribir un prompt que establezca el escenario para 
 
 Ahora es tu turno de escribir un prompt para que la IA genere una historia sobre el emprendimiento.
 
-- **Ejecuta el Código:** Presiona el botón de **Ejecutar** para que LearnPack te pida que ingreses el prompt.
-
-- **Escribe un Prompt:** Crea un prompt para que la IA genere una historia sobre el emprendimiento. Incluye detalles sobre el personaje principal, el escenario y cualquier desafío o tema específico que quieras explorar.
+- **Ejecuta el Código:** Presiona el botón de **Ejecutar** para que veas el resultado del prompt y cómo va a funcionar.
+- **Testea El Prompt Actual:**: El dropdown para **obtener feedback** tiene un botón para ejecutar los tests sobre el ejercicio actual, presiónalo y mira qué sucede, si no has modificado el prompt, debería fallar. 
+- **Escribe un Prompt:** Crea un prompt para que la IA genere una historia sobre emprendimiento. Incluye detalles sobre el personaje principal, dale un nombre, describe el escenario donde se desarrolla la historia e incluye un elemento extra de tu interés.
