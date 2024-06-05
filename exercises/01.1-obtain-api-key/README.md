@@ -6,7 +6,7 @@ To work with generative AI, we can do so through multiple existing platforms lik
 2. Once registered, go to the API Keys section in the side menu. Here is a direct link: [API Keys](https://console.groq.com/keys).
 
 3. Click on "Create API Key" and follow the instructions to create a new key.
-![Groq API KEYS](https://github.com/breatheco-de/prompt-engineering-exercise-course/blob/542e074dc3c59ce753e8b53792f57ced943fa3b1/.learn/assets/groq-keys.png)
+![Groq API KEYS](.learn/assets/groq-keys.png)
 
 
 4. Copy the secret key and press the **Run** button. This will make LearnPack save the secret key in a `.env` file at the root of the project.
