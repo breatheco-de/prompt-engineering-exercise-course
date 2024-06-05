@@ -26,7 +26,7 @@ def test_prompt_value():
     assert isinstance(app.PROMPT, str) and len(app.PROMPT) > 0
 
 
-@pytest.mark.it(PROMPT_REQUIREMENTS)
+@pytest.mark.it("The prompt MUST include at least one example of the desired output. The prompt MUST include the right context to give the list of products. The prompt MUST use delimiters to succesfully specify information to the AI")
 def test_prompt():
     from app import PROMPT
     result = create_prompt(TESTER_PROMPT, PROMPT)

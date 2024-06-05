@@ -1,4 +1,4 @@
-### Get a Correct Product List
+# Get a Correct Product List
 
 Now that you have learned about the different types of "shots" in prompt creation, let's put your skills to the test with a practical exercise.
 

@@ -1,6 +1,6 @@
-### 02.1 Importance of Detailed Instructions 📝
+# Importance of Detailed Instructions 📝
 
-Great! You have started interacting with the AI and understand how prompts work. Now, it's time to delve into the importance of providing detailed instructions in your prompts.
+Great! You have started interacting with the AI and you already understand how prompts work. Now, it's time to delve into the importance of providing detailed instructions in your prompts.
 
 Let's explore why providing detailed instructions in prompts is crucial for obtaining precise and relevant results from the AI. By the end of this lesson, you will understand how to refine and improve your initial prompts to get better results.
 
@@ -35,12 +35,11 @@ By answering these questions and incorporating the details into your prompt, you
 
 ## Instructions 📌
 
-Now it's your turn! Improve the following prompt to obtain a 300-word article for LinkedIn. The article should include emojis and hashtags.
+Now it's your turn! Improve the following prompt to get a 200-character tweet. The tweet should include emojis and hashtags and be in a fun, sarcastic, annoyed tone—make it as fun as you consider!
 
 **Initial Prompt:**
 ```
 Write a tweet about digital marketing.
 ```
 
-**Your Task:**
-Refine the initial prompt to include specific details such as the main topic, tone, and use of hashtags to get a fun 200-character tweet.
+**Your Task:** Refine the initial prompt to include specific details such as the **tone** and **use of hashtags** (tell the AI to include them) to get a **fun** 200-character tweet.

@@ -1,4 +1,4 @@
-### Obtén una lista correcta de productos
+# Obtén una lista correcta de productos
 
 Ahora que has aprendido sobre los diferentes tipos de "shots" en la creación de prompts, pongamos tus habilidades a prueba con un ejercicio práctico.
 

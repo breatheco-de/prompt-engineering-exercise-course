@@ -29,7 +29,7 @@ def test_prompt_value():
     assert isinstance(app.PROMPT, str) and len(app.PROMPT) > 0
 
 
-@pytest.mark.it(PROMPT_REQUIREMENTS)
+@pytest.mark.it("The prompt MUST pass the right context to the AI, a new about Google Algorithm Leak. The prompt must instruct the AI to produce a sarcastic analysis of the current situation with the Google Algorithm. The prompt MUST include the context inside delimiters to succesfully specify information to the AI.")
 def test_prompt():
     from app import PROMPT
     result = create_prompt(TESTER_PROMPT, PROMPT)

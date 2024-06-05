@@ -7,7 +7,7 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '.
 from prompt import create_prompt
 
 
-PROMPT = "Write a tweet about digital marketing."
+PROMPT = "Write a tweet about digital marketing. "
 
 # Generations will be added below this line
 

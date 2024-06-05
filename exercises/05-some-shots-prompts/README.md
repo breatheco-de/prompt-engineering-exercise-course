@@ -1,4 +1,4 @@
-### What are "Shots" in Prompt Creation? 🎬
+# What are "Shots" in Prompt Creation? 🎬
 
 In the context of AI and machine learning, "shots" refer to the number of examples provided to the model to help it understand the task. Let's break down the different types:
 

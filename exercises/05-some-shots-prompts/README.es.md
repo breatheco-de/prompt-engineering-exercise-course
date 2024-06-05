@@ -1,4 +1,4 @@
-### ¿Qué son los "Shots" en la Creación de Prompts? 🎬
+# ¿Qué son los "Shots" en la Creación de Prompts? 🎬
 
 En el contexto de la IA y el aprendizaje automático, los "shots" se refieren al número de ejemplos proporcionados al modelo para ayudarlo a entender la tarea. Vamos a desglosar los diferentes tipos:
 

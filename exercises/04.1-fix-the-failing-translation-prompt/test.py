@@ -7,7 +7,7 @@ import app
 import re
 from utils.prompt import create_prompt
 
-PROMPT_REQUIREMENTS = """The prompt MUST use delimiters to succesfully instruct the AI to translate the correct text."""
+PROMPT_REQUIREMENTS = """The prompt MUST use delimiters for the text to translate. If the prompt uses delimiters and ask for a translation, then is correct. Any kind of delimiters can be used."""
 
 TESTER_PROMPT = f"""You work as a prompt and AI teacher. Your task is to ensure that the user gives a correct prompt to an AI. The current requirements for the user prompt are: {PROMPT_REQUIREMENTS} If the prompt is too vague and doesn't follow the requirements return BAD_PROMPT. If the prompt is correct return GOOD_PROMPT."""
 
@@ -26,7 +26,7 @@ def test_prompt_value():
     assert isinstance(app.PROMPT, str) and len(app.PROMPT) > 0
 
 
-@pytest.mark.it(PROMPT_REQUIREMENTS)
+@pytest.mark.it("The prompt MUST use delimiters to succesfully instruct the AI to translate the correct text.")
 def test_prompt():
     from app import PROMPT
     result = create_prompt(TESTER_PROMPT, PROMPT)

@@ -1,4 +1,4 @@
-### 02.1 Importancia de Instrucciones Detalladas 📝
+# Importancia de Instrucciones Detalladas 📝
 
 ¡Muy bien! Ya has empezado a interactuar con la IA y ya entiendes cómo funcionan los prompts. Ahora, es hora de profundizar en la importancia de proporcionar instrucciones detalladas en tus prompts.
 
@@ -35,7 +35,7 @@ Al responder estas preguntas e incorporar los detalles en tu prompt, puedes guia
 
 ## Instrucciones 📌
 
-¡Ahora es tu turno! Mejora el siguiente prompt para obtener un artículo de 300 palabras para LinkedIn. El artículo debe incluir emojis y hashtags.
+¡Ahora es tu turno! Mejora el siguiente prompt para obtener un tweet de 200 caracteres. El tweet debe incluir emojis y hashtags y en un tono divertido, sarcástico, molesto, ¡hazlo como tú consideres más divertido!.
 
 **Prompt Inicial:**
 ```

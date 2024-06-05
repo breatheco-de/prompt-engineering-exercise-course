@@ -26,7 +26,7 @@ def test_prompt_value():
     assert isinstance(app.PROMPT, str) and len(app.PROMPT) > 0
 
 
-@pytest.mark.it(PROMPT_REQUIREMENTS)
+@pytest.mark.it("The prompt should include an example of a medical history and instruct the AI to act as a healthcare professional.")
 def test_prompt():
     from app import PROMPT
     result = create_prompt(TESTER_PROMPT, PROMPT)

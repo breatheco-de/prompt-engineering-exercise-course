@@ -7,13 +7,12 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '.
 from prompt import create_prompt
 
 
-PROMPT = """Create a Medical History:
+PROMPT = """Create a Medical History for John Doe
 
-John Doe, a 45-year-old man, presented to the emergency department with a 2-day history of persistent chest pain. The pain is described as a pressure sensation, located in the center of the chest, and radiates to the left arm. The pain worsens with physical activity and is relieved by rest. He also reports shortness of breath, sweating, and nausea accompanying the chest pain.
+
 """
 
 # Generations will be added below this line
-
 
 
 # DO NOT CHANGE THIS CODE

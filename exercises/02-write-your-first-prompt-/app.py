@@ -5,9 +5,11 @@ import re
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..', 'utils')))
 from prompt import create_prompt
-PROMPT = "Write a story about an entrepreneur."
+
+PROMPT = "Write a story about an entrepreneur. "
 
 # Generations will be added below this line
+
 
 
 

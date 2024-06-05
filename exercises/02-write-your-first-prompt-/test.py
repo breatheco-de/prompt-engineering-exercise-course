@@ -26,7 +26,7 @@ def test_prompt_value():
     assert isinstance(app.PROMPT, str) and len(app.PROMPT) > 0
 
 
-@pytest.mark.it('The the prompt must ask the AI to make a tweet of 200 characters, include the tone of the tweet, ask for hashtags, and the lenght of 200 characters in the tweet.')
+@pytest.mark.it("The prompt MUST include information about the characters, the scene, and at least one more element.")
 def test_prompt():
     from app import PROMPT
     result = create_prompt(TESTER_PROMPT, PROMPT)
