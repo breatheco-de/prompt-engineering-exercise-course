@@ -1,0 +1,1 @@
+Give a list of products that are available in the store.

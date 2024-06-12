@@ -1,0 +1,25 @@
+Give a list of products that are available in the store.
+
+This is the current product list:
+'''
+### Notebooks
+
+A versatile tool for jotting down notes, ideas, and sketches. Each notebook costs $5.99. 4 out of 5 customers think the notebooks are a great option for their business. Product code: ntb-001.
+
+### Pens
+
+High-quality pens designed for smooth and durable writing. Each pen costs $1.99. 5 out of 5 customers recommend these pens for their reliability and comfort. Product code: pen-002.
+
+### Microphone
+
+A professional-grade microphone ideal for recording, streaming, and online meetings. Each microphone costs $49.99. 4.5 out of 5 customers praise the microphone for its clear sound quality and ease of use. Product code: mic-003.
+'''
+
+
+I want this format
+'''
+- **Notebooks**
+  - Price: $5.99
+  - Customer Rating: 4 out of 5
+  - Product Code: ntb-001
+'''
