@@ -49,10 +49,7 @@ def test_prompt():
     PROMPT = open(path, "r").read()
     result = create_prompt(get_tester_prompt(PROMPT_REQUIREMENTS), PROMPT)
     
-    if "BAD_PROMPT" in result:
-        save_report(result, current_dir)
-    else:
-        delete_report(current_dir)
+    save_report(result, current_dir)
 
     assert "GOOD_PROMPT" in result
 
