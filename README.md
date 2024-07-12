@@ -21,7 +21,7 @@ Click on the "Code" button and then on "Create Codespace" to open this repositor
 #### 1. Install LearnPack
 a. Run the following command to install LearnPack globally on your computer:
 ```bash
-npm install -g learnpack
+npm install -g @learnpack/learnpack
 ```
 After installing LearnPack, you will be able to run any LearnPack course locally. You can see more tutorials and courses [here](https://4geeks.com/interactive-exercises).
 
@@ -37,12 +37,12 @@ b. Open **VSCode** and install the LearnPack extension. To do this, follow these
 
 #### 3. Clone this repository to your computer, wherever you want:
 ```bash
-git clone repository-url
+git clone https://github.com/breatheco-de/prompt-engineering-exercise-course
 ```
 
 #### 4. Enter the course directory:
 ```bash
-cd created-directory-name
+cd prompt-engineering-exercise-course
 ```
 
 #### 5. Start the course:
