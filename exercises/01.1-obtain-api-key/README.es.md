@@ -1,3 +1,6 @@
+---
+tutorial: "https://www.youtube.com/watch?v=Q-xWEWB3HjQ"
+---
 # Llaves Secretas
 Para trabajar con IA generativa podemos hacerlo a través de las múltiples plataformas existentes como ChatGPT, Perplexity, Gemini, Groq, y muchísimas otras. En este curso usaremos la a Groq, por su increíble velocidad y eficiencia, además de tener un uso gratuito para desarrolladores testers. Para obtener una llave secreta de Groq, sigue estos pasos:
 

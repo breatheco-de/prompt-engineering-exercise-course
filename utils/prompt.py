@@ -71,14 +71,14 @@ def get_tester_prompt(requirements):
 
     Analyze the user's prompt carefully. If it meets all requirements, respond with:
 
+    '''
     # GOOD_PROMPT ✅
     [Provide encouraging feedback in the user's language, explaining why the prompt is effective]
-
-    
+    '''
 
     If the prompt does not meet all requirements or is too vague, respond with:
-
-    # BAD_PROMPT 🚩
+    '''
+    # BAD_PROMPT 🚩 
     [Provide a concise summary of why the prompt needs improvement, in the user's language]
 
     | Requirement | Evaluation |
@@ -86,6 +86,9 @@ def get_tester_prompt(requirements):
     [Create a table with each requirement, using ✅ for met requirements and ❌ for those not met, with brief explanations]
 
     [Offer specific suggestions for improving the prompt, addressing each unmet requirement]
+
+    > [Provide an example prompt that should word inside a markdown blockquote ]
+    '''
 
     Remember:
     1. Always respond in the same language as the user's prompt (Spanish or English).

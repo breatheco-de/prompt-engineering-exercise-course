@@ -1,3 +1,7 @@
+---
+tutorial: "https://www.youtube.com/watch?v=ibu9RSCC0BY"
+---
+
 # Escribe Tu Primer Prompt ✍️
 Basta de tanta teoría, es hora de poner en práctica tus habilidades de prompting. En este ejercicio, tendrás la oportunidad de escribir tu primer prompt para que la IA genere una historia sobre el emprendimiento.
 
