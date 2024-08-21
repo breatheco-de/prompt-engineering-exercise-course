@@ -17,6 +17,11 @@ Haz clic en el botón "Code" y luego en "Create Codespace" para abrir este repos
 ### **Desde tu computadora**
 > Note: Si prefieres trabajar en tu computadora, asegúrate de tener instalado Node.jsn, npm, Python y VSCode. Aquí puedes descargar [Node](https://nodejs.org/). Y aquí puedes descargar [Python](https://www.python.org/). Y aquí puedes descargar [VSCode](https://code.visualstudio.com/).
 
+## > Puedes crear tu propia maquina virtual como Codespace en Local usando Docker
+
+
+>[Prueba el tutorial para Crear tu propio Local-Codespace](howTo-Local-Codespace/README_LocalCodespace.es.md) evita problemas de configuración
+
 #### 1. Instala LearnPack
 a. Ejecuta el siguiente comando para instalar LearnPack de forma global en tu computadora:
 ```bash
@@ -37,7 +42,7 @@ b. Entra en **VSCode** e instala la extensión de LearnPack. Para hacerlo, sigue
 
 #### 3. Clona este repositorio en tu computadora, donde tú quieras:
 ```bash
-git clone url-del-repositorio
+git clone https://github.com/breatheco-de/prompt-engineering-exercise-course
 ```
 
 #### 4. Entra en el directorio del curso:

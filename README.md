@@ -18,6 +18,10 @@ Click on the "Code" button and then on "Create Codespace" to open this repositor
 ### **From your computer**
 > Note: If you prefer to work on your computer, make sure you have Node.js, npm, Python, and VSCode installed. You can download [Node](https://nodejs.org/). You can download [Python](https://www.python.org/). You can download [VSCode](https://code.visualstudio.com/).
 
+## > You can create your own virtual machine like Codespace locally using Docker
+
+>[Try the tutorial to Create your own Local-Codespace](howTo-Local-Codespace/README_LocalCodespace.md) to avoid configuration issues
+
 #### 1. Install LearnPack
 a. Run the following command to install LearnPack globally on your computer:
 ```bash
