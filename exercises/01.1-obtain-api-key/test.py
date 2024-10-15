@@ -1,6 +1,7 @@
 import os
 from dotenv import load_dotenv
-load_dotenv()
+
+load_dotenv(dotenv_path=os.path.join(os.getcwd(), '.env'))
 
 def test_api_key():
     with open(".env", "r") as f:
