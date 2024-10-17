@@ -21,6 +21,7 @@
     "ingenieria-de-prompts"  
   ],
   "editor": {
+    "version": "4.0.0",
     "agent": "vscode",
     "mode": "extension",
     "hideTerminal": true
