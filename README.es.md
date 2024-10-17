@@ -12,7 +12,20 @@ Además, en el mismo repasamos muchos conceptos importantes de una forma concisa
 
 ## ¿Cómo iniciar?  🚀
 ### **Desde GitHub** (recomendado)
-Haz clic en el botón **Fork** para crear una copia del repositorio en tu cuenta de Github, luego presiona  "Code" en tu repo y luego en "Create Codespace" para abrir este repositorio en un entorno de desarrollo en la nube, así no tendrás que instalar nada en tu computadora y podrás iniciar el curso en tan solo un click.
+Haz clic en el botón **Fork** para crear una copia del repositorio en tu cuenta de Github, 
+![how-to-fork](https://github.com/breatheco-de/prompt-engineering-exercise-course/blob/6c198c561bb5c286e6b69cc8dd247c4b5ab99e7f/.learn/assets/how-to-fork.png)
+
+
+Ahora puedes crear el fork simplemente presionando el botón de abajo
+![Fork](https://github.com/breatheco-de/prompt-engineering-exercise-course/blob/caabf336257f8b5d0c932315ff0b45cc9a516960/.learn/assets/fork-modal.png)
+
+Luego presiona  "Code" en tu nuevo repo
+![click on code button](https://github.com/breatheco-de/prompt-engineering-exercise-course/blob/caabf336257f8b5d0c932315ff0b45cc9a516960/.learn/assets/code-button.png)
+
+ y luego en "Create Codespace" para abrir este repositorio en un entorno de desarrollo en la nube, así no tendrás que instalar nada en tu computadora y podrás iniciar el curso en tan solo un click.
+![create codespace](https://github.com/breatheco-de/prompt-engineering-exercise-course/blob/caabf336257f8b5d0c932315ff0b45cc9a516960/.learn/assets/create-codespace.png)
+
+
 
 ### **Desde tu computadora**
 > Note: Si prefieres trabajar en tu computadora, asegúrate de tener instalado Node.jsn, npm, Python y VSCode. Aquí puedes descargar [Node](https://nodejs.org/). Y aquí puedes descargar [Python](https://www.python.org/). Y aquí puedes descargar [VSCode](https://code.visualstudio.com/).
