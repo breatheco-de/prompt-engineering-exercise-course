@@ -54,7 +54,7 @@ b. Open **VSCode** and install the LearnPack extension. To do this, follow these
 
 #### 3. Clone this repository to your computer, wherever you want:
 ```bash
-git clone https://github.com/breatheco-de/prompt-engineering-exercise-course
+git clone https://github.com/breatheco-de/prompt-engineering-exercise-course.git
 ```
 
 #### 4. Enter the course directory:
