@@ -20,7 +20,13 @@ Additionally, we review many important concepts in a concise and clear manner so
 Then create the fork, you can change the name if you want
 ![Fork](https://github.com/breatheco-de/prompt-engineering-exercise-course/blob/caabf336257f8b5d0c932315ff0b45cc9a516960/.learn/assets/fork-modal.png)
 
-Click on the "Code" button and then on "Create Codespace" to open this repository in a cloud development environment, so you won't have to install anything on your computer and you can start the course with just one click.
+Click on the "Code" button 
+![click on code button](https://github.com/breatheco-de/prompt-engineering-exercise-course/blob/caabf336257f8b5d0c932315ff0b45cc9a516960/.learn/assets/code-button.png)
+
+and then on "Create Codespace" to open this repository in a cloud development environment, so you won't have to install anything on your computer and you can start the course with just one click.
+![create codespace](https://github.com/breatheco-de/prompt-engineering-exercise-course/blob/caabf336257f8b5d0c932315ff0b45cc9a516960/.learn/assets/create-codespace.png)
+
+
 
 ### **From your computer**
 > Note: If you prefer to work on your computer, make sure you have Node.js, npm, Python, and VSCode installed. You can download [Node](https://nodejs.org/). You can download [Python](https://www.python.org/). You can download [VSCode](https://code.visualstudio.com/).
