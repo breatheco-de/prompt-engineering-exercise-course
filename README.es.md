@@ -26,6 +26,7 @@ Luego presiona  "Code" en tu nuevo repo
 ![create codespace](https://github.com/breatheco-de/prompt-engineering-exercise-course/blob/caabf336257f8b5d0c932315ff0b45cc9a516960/.learn/assets/create-codespace.png)
 
 
+> ¡Ahora solo debes esperar que el Codespace termine de construirse y todo listo!
 
 ### **Desde tu computadora**
 > Note: Si prefieres trabajar en tu computadora, asegúrate de tener instalado Node.jsn, npm, Python y VSCode. Aquí puedes descargar [Node](https://nodejs.org/). Y aquí puedes descargar [Python](https://www.python.org/). Y aquí puedes descargar [VSCode](https://code.visualstudio.com/).
