@@ -12,9 +12,14 @@ Additionally, we review many important concepts in a concise and clear manner so
 
 
 ## How to start? 🚀
-### **From GitHub** (recommended)
-First, fork the repository. Go to [this link](https://github.com/breatheco-de/prompt-engineering-exercise-course.git) and press **Fork**.
+## **From GitHub** (recommended)
+### First, fork the repository. Go to [this link](https://github.com/breatheco-de/prompt-engineering-exercise-course.git) and press **Fork**.
 ![how-to-fork](https://github.com/breatheco-de/prompt-engineering-exercise-course/blob/6c198c561bb5c286e6b69cc8dd247c4b5ab99e7f/.learn/assets/how-to-fork.png)
+
+
+Then create the fork, you can change the name if you want
+![Fork](https://github.com/breatheco-de/prompt-engineering-exercise-course/blob/caabf336257f8b5d0c932315ff0b45cc9a516960/.learn/assets/fork-modal.png)
+
 Click on the "Code" button and then on "Create Codespace" to open this repository in a cloud development environment, so you won't have to install anything on your computer and you can start the course with just one click.
 
 ### **From your computer**
