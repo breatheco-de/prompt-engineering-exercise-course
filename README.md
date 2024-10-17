@@ -13,7 +13,9 @@ Additionally, we review many important concepts in a concise and clear manner so
 
 ## How to start? 🚀
 ### **From GitHub** (recommended)
-First, fork the repository. Go to [this link](https://github.com/breatheco-de/prompt-engineering-exercise-course.git) and press **Fork** Click on the "Code" button and then on "Create Codespace" to open this repository in a cloud development environment, so you won't have to install anything on your computer and you can start the course with just one click.
+First, fork the repository. Go to [this link](https://github.com/breatheco-de/prompt-engineering-exercise-course.git) and press **Fork**.
+![how-to-fork](/.learn/assets/how-to-fork.png)
+Click on the "Code" button and then on "Create Codespace" to open this repository in a cloud development environment, so you won't have to install anything on your computer and you can start the course with just one click.
 
 ### **From your computer**
 > Note: If you prefer to work on your computer, make sure you have Node.js, npm, Python, and VSCode installed. You can download [Node](https://nodejs.org/). You can download [Python](https://www.python.org/). You can download [VSCode](https://code.visualstudio.com/).
