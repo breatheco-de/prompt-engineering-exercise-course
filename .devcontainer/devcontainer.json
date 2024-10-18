@@ -22,7 +22,7 @@
 			"extensions": ["learn-pack.learnpack-vscode"]
 		}
 	},
-	"onCreateCommand": "pip3 install pytest==6.2.5 pytest-testdox mock && npm i @learnpack/learnpack@4.0.0 -g && learnpack plugins:install @learnpack/python"
+	"onCreateCommand": "pip3 install pytest==6.2.5 pytest-testdox mock && npm i @learnpack/learnpack@4.0.13 -g && learnpack plugins:install @learnpack/python"
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
