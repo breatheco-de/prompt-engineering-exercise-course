@@ -27,7 +27,7 @@ def create_prompt(system_message, user_message):
 
     chat_completion=  client.chat.completions.create(
         messages=messages,
-        model="llama3-70b-8192",
+        model="llama-3.3-70b-versatile",
         max_tokens=2000,
     )
     return remove_double_quotes_from_beginning_and_end(chat_completion.choices[0].message.content)
