@@ -21,9 +21,9 @@ Los delimitadores son caracteres o secuencias de caracteres utilizados para espe
 
 #### Ejemplo:
 
-```text
-Traduce el texto a francés <Hola, ¿cómo estás?>
-```
+
+> Traduce el texto a francés <Hola, ¿cómo estás?>
+
 
 ### ¿Por Qué Usar Delimitadores? 🤔
 
@@ -33,15 +33,14 @@ El uso de delimitadores ayuda a evitar ambigüedades y asegura que la IA interpr
 
 Este es un mal prompt porque la IA podría confundirse sobre qué exactamente necesita ser traducido:
 
-```text
-Traduce el texto al francés asegurar una buena calidad de traducción es muy fácil si sabes cómo usar IA.
-```
+
+> Traduce el texto al francés asegurar una buena calidad de traducción es muy fácil si sabes cómo usar IA.
+
 
 Usando delimitadores, puedes hacer la entrada clara y sin ambigüedades:
 
-```text
-Traduce el texto al francés """asegurar una buena calidad de traducción es muy fácil si sabes cómo usar IA""".
-```
+> Traduce el texto al francés """asegurar una buena calidad de traducción es muy fácil si sabes cómo usar IA""".
+
 
 ## Consejos 💡:
 

@@ -19,9 +19,8 @@ Delimiters are characters or sequences of characters used to specify the boundar
 
 #### Example:
 
-```text
-Translate the text to French <Hello, how are you?>
-```
+> Translate the text to French <Hello, how are you?>
+
 
 ### Why Use Delimiters? 🤔
 
@@ -31,15 +30,15 @@ Using delimiters helps to avoid ambiguities and ensures that the AI interprets t
 
 This is a bad prompt because the AI might get confused about what exactly needs to be translated:
 
-```text
-Translate the text to French ensuring good translation quality is very easy if you know how to use AI.
-```
+
+> Translate the text to French ensuring good translation quality is very easy if you know how to use AI.
+
 
 By using delimiters, you can make the input clear and unambiguous:
 
-```text
-Translate the text to French """ensuring good translation quality is very easy if you know how to use AI""".
-```
+
+> Translate the text to French """ensuring good translation quality is very easy if you know how to use AI""".
+
 
 ## Tips 💡:
 
