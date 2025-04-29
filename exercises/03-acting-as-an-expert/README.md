@@ -10,25 +10,25 @@ When you want the AI to act as an expert, it is crucial to provide sufficient **
 
 #### Example of a prompt for a medical expert:
 
-```text
-You are a medical expert with 20 years of experience in cardiology. Explain the symptoms and treatment options for atrial fibrillation.
-```
+
+> You are a medical expert with 20 years of experience in cardiology. Explain the symptoms and treatment options for atrial fibrillation.
+
 
 ### Creating Detailed Prompts 🛠️
 The more detailed your prompt, the better the AI can tailor its response. Include specific details about the level of expertise, years of experience, and any other relevant information. You can also add specific questions to guide the AI's response or provide updated information on the topic.
 
 #### Example of a Prompt for a legal expert:
-```text
-You are a legal expert with 15 years of experience in intellectual property law. Explain the process of filing a patent in the United States.
-```
+
+> You are a legal expert with 15 years of experience in intellectual property law. Explain the process of filing a patent in the United States.
+
 
 ### Importance of Precision and Relevance 🎯
 
 Providing precise and relevant information in your prompt is essential to obtain expert-level responses. This ensures that the AI understands the context and can provide accurate and useful information.
 
 #### Example of a prompt for a technology expert:
-```text
-You are a technology expert with 10 years of experience in artificial intelligence and machine learning. Describe the differences between supervised and unsupervised learning.
-```
+
+> You are a technology expert with 10 years of experience in artificial intelligence and machine learning. Describe the differences between supervised and unsupervised learning.
+
 
 Let's move on to the next exercise to put into practice what you have learned about acting as an expert in a specific field. Keep going! 🚀

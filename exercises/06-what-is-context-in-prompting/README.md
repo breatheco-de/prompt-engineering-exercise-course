@@ -13,23 +13,23 @@ If you do not provide enough context, the AI might generate irrelevant or incorr
 A hallucination occurs when the AI generates information that is not true because it does not have enough context or the training data does not include the specific information you are requesting.
 
 #### Bad Prompt:
-```text
-What was the magnitude of the earthquake that occurred on April 3, 2024, in Taiwan? How many people were injured?
-```
+
+> What was the magnitude of the earthquake that occurred on April 3, 2024, in Taiwan? How many people were injured?
+
 This prompt lacks context and could lead to inaccurate or irrelevant responses because the training data might not include this specific event.
 
 #### Good Prompt:
-```text
-What was the magnitude of the earthquake that occurred on April 3, 2024, in Taiwan? How many people were injured?
 
-Context from Wikipedia: On April 3, 2024, at 07:58:11 NST (23:58:11 UTC on April 2), a magnitude 7.4 earthquake struck 15 km (9.3 mi) south of Hualien City, Hualien County, Taiwan. At least 18 people died and more than 1,100 were injured in the earthquake. It is the strongest earthquake in Taiwan since the Jiji earthquake in 1999, with three aftershocks above magnitude 6.0.
-```
+> What was the magnitude of the earthquake that occurred on April 3, 2024, in Taiwan? How many people were injured?
+> 
+> Context from Wikipedia: On April 3, 2024, at 07:58:11 NST (23:58:11 UTC on April 2), a magnitude 7.4 earthquake struck 15 km (9.3 mi) south of Hualien City, Hualien County, Taiwan. At least 18 people died and more than 1,100 were injured in the earthquake. It is the strongest earthquake in Taiwan since the Jiji earthquake in 1999, with three aftershocks above magnitude 6.0.
+
 In this prompt, we provide enough context about the earthquake in Taiwan, which will make the generated response not a hallucination.
 
 #### Example of hallucination for the first prompt:
-```text
-The magnitude of the earthquake was 7.5 on the Richter scale and around 500 people were injured.
-```
+
+> The magnitude of the earthquake was 7.5 on the Richter scale and around 500 people were injured.
+
 
 ### Tips to Avoid Hallucinations 📝🚫
 

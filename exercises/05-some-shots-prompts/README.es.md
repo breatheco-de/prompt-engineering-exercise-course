@@ -8,9 +8,9 @@ El zero-shot prompting significa darle a la IA una tarea sin ningún ejemplo. La
 
 **Ejemplo:**
 
-```text
-Genera un objeto JSON que represente a un usuario
-```
+
+> Genera un objeto JSON que represente a un usuario
+
 
 #### One-Shot Prompting
 
@@ -18,19 +18,19 @@ El one-shot prompting implica proporcionar a la IA un ejemplo para ayudarla a en
 
 **Ejemplo:**
 
-```text
-Genera un objeto JSON que represente a un usuario
-Ejemplo:
-"""
-{
-    "nombre": "Juan Pérez",
-    "edad": 30,
-    "correo": "juan.perez@ejemplo.com"
-  }
-"""
-```
 
-> **Pista:** Recuerda usar delimitadores 👀.
+> Genera un objeto JSON que represente a un usuario
+> Ejemplo:
+> """
+> {
+>    "nombre": "Juan Pérez",
+>    "edad": 30,
+>    "correo": "juan.perez@ejemplo.com"
+>  }
+> """
+
+
+**Pista:** Recuerda usar delimitadores 👀.
 
 #### Few-Shot Prompting
 
@@ -40,15 +40,15 @@ El few-shot prompting significa darle a la IA unos pocos ejemplos para mejorar s
 
 **Ejemplo:**
 
-```text
-Genera un diálogo de película para una comedia romántica. Hay dos personajes, Alicia y Roberto, que son amigos de la infancia y se enamoran.
 
-Ejemplos:
-<Alicia>: Siempre he tenido un crush contigo, Roberto.
-<Roberto>: Nunca lo supe, Alicia. Yo siento lo mismo.
+> Genera un diálogo de película para una comedia > romántica. Hay dos personajes, Alicia y Roberto, que son amigos de la infancia y se enamoran.
+> 
+> Ejemplos:
+> <Alicia>: Siempre he tenido un crush contigo, Roberto.
+> <Roberto>: Nunca lo supe, Alicia. Yo siento lo mismo.
+>
+> La escena termina con ellos tomados de la mano y mirándose a los ojos.
 
-La escena termina con ellos tomados de la mano y mirándose a los ojos.
-```
 
 #### Many-Shot Prompting
 

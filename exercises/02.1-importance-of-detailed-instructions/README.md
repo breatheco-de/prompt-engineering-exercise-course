@@ -9,14 +9,14 @@ Let's explore why providing detailed instructions in prompts is crucial for obta
 When you provide detailed instructions in your prompts, you help the AI understand exactly what you need. This leads to more precise and relevant results. Let's look at examples to illustrate this:
 
 **Bad Prompt**
-```
-Write a story about entrepreneurship.
-```
+
+> Write a story about entrepreneurship.
+
 
 **Good Prompt**
-```
-Write a 300-word story about a young entrepreneur who starts a tech company. The story should include the challenges he faces, how he overcomes them, and his eventual success. Focus on the character's growth and resilience. The tone should be inspiring and motivational. The main character should be a 32-year-old man named Alfonso.
-```
+
+> Write a 300-word story about a young entrepreneur who starts a tech company. The story should include the challenges he faces, how he overcomes them, and his eventual success. Focus on the character's growth and resilience. The tone should be inspiring and motivational. The main character should be a 32-year-old man named Alfonso.
+
 
 In the bad example, the prompt is too vague, leading to a generic and possibly irrelevant story. In the good example, the detailed instructions guide the AI to produce a more focused and useful story.
 

@@ -7,29 +7,34 @@ Imagina que tú y yo estamos trabajando en una guía de productos para una tiend
 
 Este es el formato actual de la lista de productos:
 
-```markdown
-### Cuadernos
 
-Una herramienta versátil para anotar notas, ideas y bocetos. Cada cuaderno cuesta $5.99. 4 de cada 5 clientes piensan que los cuadernos son una gran opción para su negocio. Código de producto: ntb-001.
-
-### Plumas
-
-Plumas de alta calidad diseñadas para una escritura suave y duradera. Cada pluma cuesta $1.99. 5 de cada 5 clientes recomiendan estas plumas por su fiabilidad y comodidad. Código de producto: pen-002.
-
-### Micrófono
-
-Un micrófono de grado profesional ideal para grabar, transmitir y reuniones en línea. Cada micrófono cuesta $49.99. 4.5 de cada 5 clientes elogian el micrófono por su calidad de sonido clara y facilidad de uso. Código de producto: mic-003.
-```
+> ### Cuadernos  
+> Una herramienta versátil para anotar notas, ideas y bocetos.  
+> **Precio:** $5.99  
+> **Opinión de Clientes:** 4 de cada 5 los consideran ideales para su negocio.  
+> **Código de Producto:** `ntb-001`  
+>
+> ### Plumas  
+> Plumas de alta calidad diseñadas para una escritura suave y duradera.  
+> **Precio:** $1.99  
+> **Opinión de Clientes:** 5 de cada 5 las recomiendan por su fiabilidad y comodidad.  
+> **Código de Producto:** `pen-002`  
+>
+> ### Micrófono  
+> Micrófono de grado profesional ideal para grabar, transmitir y reuniones en línea.  
+> **Precio:** $49.99  
+> **Opinión de Clientes:** 4.5 de cada 5 elogian su calidad de sonido y facilidad de uso.  
+> **Código de Producto:** `mic-003`
 
 ## Instrucciones 📌
 Queremos mejorar nuestra guía para obtener una forma más fácil de leer la lista de productos. Necesitamos una guía que incluya para cada producto: nombre, precio, calificación de los clientes y código de producto en un formato como:
 
-```markdown
-- **Cuadernos**
-  - Precio: $5.99
-  - Calificación de los Clientes: 4 de 5
-  - Código de Producto: ntb-001
-```
+
+> - **Cuadernos**
+>   - Precio: $5.99
+>   - Calificación de los Clientes: 4 de 5
+>   - Código de Producto: ntb-001
+
 
 - Tu tarea es crear un prompt que nos ayude a obtener una lista correcta de productos en el formato deseado. 
 - Recuerda usar los delimitadores apropiados y proporcionar instrucciones claras y el contexto necesario para que la IA entienda la tarea. 

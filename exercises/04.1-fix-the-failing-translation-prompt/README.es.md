@@ -7,9 +7,9 @@
 
 Al crear prompts para traducción, la claridad es clave. Un prompt mal estructurado puede llevar a traducciones incorrectas o incompletas. Echemos un vistazo al prompt fallido:
 
-```
-Translate the following text into Spanish and provide examples of how to use the words in a sentence. Translations made by generative AI are usually better than those made by traditional translators.
-```
+
+> Translate the following text into Spanish and provide examples of how to use the words in a sentence. Translations made by generative AI are usually better than those made by traditional translators.
+
 
 Este prompt es confuso y carece de delimitadores adecuados, lo que dificulta que la IA entienda qué es exactamente lo que necesita ser traducido, ni un humano puede entenderlo bien.
 
@@ -18,9 +18,9 @@ Este prompt es confuso y carece de delimitadores adecuados, lo que dificulta que
 
 - Arregla el prompt para obtener una traducción correcta del texto exacto al español.
 El texto a traducir es: 
-```text
-and provide examples of how to use the words in a sentence. Translations made by generative AI are usually better than those made by traditional translators.
-```
+
+> and provide examples of how to use the words in a sentence. Translations made by generative AI are usually better than those made by traditional translators.
+
 
 
 **Pista:** Recuerda usar delimitadores para definir claramente el texto a traducir.

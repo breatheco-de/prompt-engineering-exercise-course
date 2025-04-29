@@ -15,23 +15,23 @@ U️na alucinación ocurre cuando la IA genera información que no es cierta deb
 
 
 #### Mal Prompt:
-```text
-¿Cuál fue la magnitud del terremoto que ocurrió el 3 de abril de 2024 en Taiwán? ¿Cuántas personas resultaron heridas?
-```
+
+> ¿Cuál fue la magnitud del terremoto que ocurrió el 3 de abril de 2024 en Taiwán? ¿Cuántas personas resultaron heridas?
+
 Este prompt carece de contexto y podría llevar a respuestas inexactas o irrelevantes porque los datos de entrenamiento podrían no incluir este evento específico.
 
 #### Buen Prompt:
-```text
-¿Cuál fue la magnitud del terremoto que ocurrió el 3 de abril de 2024 en Taiwán? ¿Cuántas personas resultaron heridas?
 
-Contexto de Wikipedia: El 3 de abril de 2024, a las 07:58:11 NST (23:58:11 UTC el 2 de abril), un terremoto de magnitud 7.4 golpeó a 15 km (9.3 mi) al sur de la ciudad de Hualien, en el condado de Hualien, Taiwán. Al menos 18 personas murieron y más de 1,100 resultaron heridas en el terremoto. Es el terremoto más fuerte en Taiwán desde el terremoto de Jiji en 1999, con tres réplicas por encima de magnitud 6.0.
-```
+> ¿Cuál fue la magnitud del terremoto que ocurrió el 3 de abril de 2024 en Taiwán? ¿Cuántas personas resultaron heridas?
+> 
+> Contexto de Wikipedia: El 3 de abril de 2024, a las 07:58:11 NST (23:58:11 UTC el 2 de abril), un terremoto de magnitud 7.4 golpeó a 15 km (9.3 mi) al sur de la ciudad de Hualien, en el condado de Hualien, Taiwán. Al menos 18 personas murieron y más de 1,100 resultaron heridas en el terremoto. Es el terremoto más fuerte en Taiwán desde el terremoto de Jiji en 1999, con tres réplicas por encima de magnitud 6.0.
+
 En este prompt, proporcionamos suficiente contexto sobre el terremoto en Taiwán, lo que hará que la respuesta generada no sea un alucinación.
 
 #### Ejemplo de alucinación para el primer prompt:
-```text
-La magnitud del terremoto fue de 7.5 en la escala de Richter y resultaron heridas alrededor de 500 personas. 
-```
+
+> La magnitud del terremoto fue de 7.5 en la escala de Richter y resultaron heridas alrededor de 500 personas. 
+
 
 ### Consejos para  evitar alucinaciones 📝🚫
 

@@ -9,14 +9,14 @@ Vamos a explorar por qué proporcionar instrucciones detalladas en los prompts e
 Cuando proporcionas instrucciones detalladas en tus prompts, ayudas a la IA a entender exactamente lo que necesitas. Esto lleva a resultados más precisos y relevantes. Veamos ejemplos para ilustrar esto:
 
 **Mal prompt**
-```
-Escribe una historia sobre emprendimiento.
-```
+
+> Escribe una historia sobre emprendimiento.
+
 
 **Buen Prompt**
-```
-Escribe una historia de 300 palabras sobre un joven emprendedor que inicia una empresa de tecnología. La historia debe incluir los desafíos que enfrenta, cómo los supera y el éxito eventual. Enfócate en el crecimiento y la resiliencia del personaje. El tono debe ser inspirador y motivador. El personaje principal debe ser un hombre de 32 años llamado Alfonso.
-```
+
+> Escribe una historia de 300 palabras sobre un joven emprendedor que inicia una empresa de tecnología. La historia debe incluir los desafíos que enfrenta, cómo los supera y el éxito eventual. Enfócate en el crecimiento y la resiliencia del personaje. El tono debe ser inspirador y motivador. El personaje principal debe ser un hombre de 32 años llamado Alfonso.
+
 
 En el mal ejemplo, el prompt es demasiado vago, lo que lleva a una historia genérica y posiblemente irrelevante. En el buen ejemplo, las instrucciones detalladas guían al AI para producir una historia más enfocada y útil.
 

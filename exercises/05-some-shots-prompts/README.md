@@ -7,26 +7,26 @@ In the context of AI and machine learning, "shots" refer to the number of exampl
 Zero-shot prompting means giving the AI a task without any example. The AI has to rely solely on its pre-existing knowledge and instructions to generate a response.
 
 **Example:**
-```text
-Generate a JSON object that represents a user
-```
+
+> Generate a JSON object that represents a user
+
 
 #### One-Shot Prompting
 
 One-shot prompting involves providing the AI with one example to help it better understand the task.
 
 **Example:**
-```text
-Generate a JSON object that represents a user
-Example: """
-{
-    "name": "John Doe",
-    "age": 30,
-    "email": "john.doe@example.com"
-}
-"""
-```
-> **Hint:** Remember to use delimiters 👀.
+
+> Generate a JSON object that represents a user
+> Example: """
+> {
+>     "name": "John Doe",
+>     "age": 30,
+>     "email": "john.doe@example.com"
+> }
+> """
+
+**Hint:** Remember to use delimiters 👀.
 
 #### Few-Shot Prompting
 
@@ -35,15 +35,15 @@ Few-shot prompting means giving the AI a few examples to improve its understandi
 > Note: Generally, for large language models, it is not necessary to give many examples to understand a pattern; usually, 2 or 3 examples are sufficient depending on the complexity of the task.
 
 **Example:**
-```text
-Generate a movie dialogue for a romantic comedy. There are two characters, Alice and Robert, who are childhood friends and fall in love.
 
-Examples:
-<Alice>: I've always had a crush on you, Robert.
-<Robert>: I never knew, Alice. I feel the same way.
+> Generate a movie dialogue for a romantic comedy. There are two characters, Alice and Robert, who are childhood friends and fall in love.
+>
+> Examples:
+> <Alice>: I've always had a crush on you, Robert.
+> <Robert>: I never knew, Alice. I feel the same way.
+> 
+> The scene ends with them holding hands and looking into each other's eyes.
 
-The scene ends with them holding hands and looking into each other's eyes.
-```
 
 #### Many-Shot Prompting
 
