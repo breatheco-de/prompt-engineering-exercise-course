@@ -3,7 +3,7 @@ In recent years, **Generative Artificial Intelligence** (AI) has taken an increa
 
 ### In this course, we answer the following questions:
 - How does Generative AI work?
-- What are the best *Prompting* techniques to get precise results?
+- What are the best *prompting* techniques to get precise results?
 - How to obtain an API Key to use OpenAI or Groq
 
 Additionally, we review many important concepts in a concise and clear manner so that anyone can understand them regardless of their prior knowledge.
